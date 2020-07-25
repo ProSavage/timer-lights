@@ -1,0 +1,6 @@
+[submodule "timer-lights-panel"]
+	path = timer-lights-panel
+	url = https://github.com/ProSavage/timer-lights-panel
+[submodule "timer-lights-backend"]
+	path = timer-lights-backend
+	url = https://github.com/ProSavage/timer-lights-backend
